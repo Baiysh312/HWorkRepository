@@ -8,6 +8,6 @@ public class Main {
         git = scan.next();
         if (git=="git"){
             System.out.println("this is git");
-        }
+        }else System.out.println("this is not a git");
     }
 }
